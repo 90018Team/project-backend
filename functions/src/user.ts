@@ -23,7 +23,7 @@ Or ask Caleb for his access token, you can skip below steps. The token has 3600 
 Simply send request with endpoint in Postman, 
 and remember to set Authentication with Bearer token before you send request (access token).
 
-Install gcloud:
+Get your own access token:
 1. install gcloud first (look up google cloud cli)
 2. log in by "gcloud auth login" (if has not logged in yet)
 3. run "gcloud auth print-access-token" 
